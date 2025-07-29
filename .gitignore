@@ -1,0 +1,4 @@
+# Editors specific
+.fleet
+.idea
+.vscode
